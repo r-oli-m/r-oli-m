@@ -1,6 +1,6 @@
 # Hi there, I’m Reva Mahto! 👋
 
-I'm currently a Computer Science student at UCSC, with a strong passion for building cool tech and helping communities through coding. Whether it's deploying full-stack web apps or diving into AI, I’m always looking for the next project to bring to life. I enjoy simplifying complex problems, and if I’m not coding, you might find me organizing engaging sessions for Girls Who Code or the Google Student Developer Club.
+🐥 I'm currently a Computer Science student at UCSC, with a strong passion for building cool tech and helping communities through coding. Whether it's deploying full-stack web apps or diving into AI, I’m always looking for the next project to bring to life. I enjoy simplifying complex problems, and if I’m not coding, you might find me organizing engaging sessions for Girls Who Code or the Google Student Developer Club.
 
 ### 💻 What I’m Working On:
 - **UCSC GWC Website**: Building an awesome platform with React.js, Google Cloud, and MongoDB to make tech resources accessible for student minorities. 
