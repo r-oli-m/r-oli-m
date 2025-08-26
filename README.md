@@ -1,13 +1,13 @@
 # Hi there, I’m Reva Mahto! 👋
 
-🐶 I'm currently a Computer Science student at UCSC, with a strong passion for building cool tech and helping communities through coding. Whether it's deploying full-stack web apps or diving into AI, I’m always looking for the next project to bring to life. I enjoy simplifying complex problems, and if I’m not coding, you might find me organizing engaging sessions for Girls Who Code or the Google Student Developer Club. I also enjoy cooking (+ eating:), dancing, and board/card/sporty games.
+🐶 I'm currently a Computer Science student at UCSC, with a strong passion for building cool tech and helping communities through coding. Whether it's deploying full-stack web/mobile apps or diving into AI, I’m always looking for the next project to bring to life. I enjoy simplifying complex problems, and if I’m not codin≠g, you might find me organizing engaging sessions for Girls Who Code or the Google Student Developer Club. I also enjoy cooking (+ eating), dancing, and board/card/sporty games (I just like to play).
 
 ### 💻 What I’m Working On:
-- **UCSC GWC Website**: Building an awesome platform with React.js, Google Cloud, and MongoDB to make tech resources accessible for student minorities. 
-- **AI Projects**: As part of the Google AI Studio Fellowship, I’m analyzing and modeling the Google Trends and U.S. CDC Flu data to provide valuable national flu prediction insights.
-
+- **Google Internship** _Play Personalization Team_: (1) Using SQL to monitor user's tab landing (on Play Store) data on dashboards and (2) encourage dynamic engagement on the app by storing aggregated data on user's historical landings (through a pipeline). 👩🏽‍💻
+- (not work related) Training myself in teaching and learning dance 💃
+  
 ### 🛠 Tech I Use:
-Python, Java, C++, React.js, Firebase, XCode, Google Cloud, and more! Always keen on learning and experimenting with new frameworks and tools.
+Python, Java, C++, React.js, Firebase, XCode, Google Cloud, Linux and more! Always keen on learning and experimenting with new frameworks and tools.
 
 ### 🎯 My Goals:
 - Continue honing my AI and machine learning skills.
